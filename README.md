@@ -1,2 +1,2 @@
 # Forum
-Sistema baseado em um site de perguntas e respostas para profissionais e entusiastas na área de programação. Esse Sistema foi um trabalho desenvolvido durante a Formação de Spring Framework da Alura.
+Sistema baseado no forum de dúvidas da alura. Esse sistema foi um exercício prático criado pelo instrutor da alura durante a Formação de Spring Framework da Alura. Nele estará contido duas pastas com minha codificação do sistema proposto e a codificação do instrutor.
